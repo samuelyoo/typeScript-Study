@@ -1,0 +1,24 @@
+{
+  "name": "sammychain",
+  "version": "1.0.0",
+  "description": "type script blockchain study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelyoo/typeScript-Study.git"
+  },
+  "author": "Samuel Yoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samuelyoo/typeScript-Study/issues"
+  },
+  "homepage": "https://github.com/samuelyoo/typeScript-Study#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
